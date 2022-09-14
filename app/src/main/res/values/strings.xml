@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Apk-my-dev-Id</string>
+    <string name="author_name">author_name</string>
+    <string name="author_image">facinet_photo</string>
+    <string name="author_full_name">Facinet KOUYATE</string>
+    <string name="profile">Profile :</string>
+    <string name="android_engineer_jr_text">Android Engineer Jr.</string>
+</resources>
